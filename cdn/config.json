@@ -1,10 +1,12 @@
 {
-    "address":[
-    "cdn1.b1msg.com",
-    "cdn2.b1msg.com",
-    "cdn3.b1msg.com",
-    "cdn1.bffmsg.com",
-    "cdn2.bffmsg.com",
-    "cdn3.bffmsg.com"
+    "version": 1,
+    "ttl": 60,
+    "address": [
+        "dev-edge1.b1msg.com",
+        "dev-edge2.b1msg.com",
+        "dev-edge3.b1msg.com",
+        "dev-edge1.bffmsg.com",
+        "dev-edge2.bffmsg.com",
+        "dev-edge3.bffmsg.com"
     ]
 }

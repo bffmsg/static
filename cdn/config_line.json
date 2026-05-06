@@ -1,0 +1,12 @@
+{
+    "version": 1,
+    "ttl": 60,
+    "address": [
+        "edge1.b1msg.com",
+        "edge2.b1msg.com",
+        "edge3.b1msg.com",
+        "edge1.bffmsg.com",
+        "edge2.bffmsg.com",
+        "edge3.bffmsg.com"
+    ]
+}
